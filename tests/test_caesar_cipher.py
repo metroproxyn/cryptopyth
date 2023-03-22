@@ -1,4 +1,4 @@
-import caesar_cipher
+import src.caesar_cipher as caesar_cipher
 
 plaintext = "This is my first cipher."
 shift = 3

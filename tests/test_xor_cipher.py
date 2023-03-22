@@ -1,4 +1,4 @@
-import xor_cipher
+import src.xor_cipher as xor_cipher
 
 message = "Hello, world!"
 key = "secret"
