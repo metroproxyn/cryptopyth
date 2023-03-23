@@ -28,3 +28,7 @@ def caesar_cipher(text, shift):
 
 # ToDo
 # Write a decryptor, change caesar_cipher function name to the encryptor
+def caesar_decrypt(text, shift):
+    result = ""
+    #ToDo: iterate through each character in the input text
+    return result
