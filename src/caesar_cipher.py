@@ -1,7 +1,7 @@
-def caesar_encrypt(text, shift):
+def caesar_encrypt(plaintext, shift):
     result = ""
     # iterate through each character in the input text
-    for char in text:
+    for char in plaintext:
         # check if character is an uppercase or lowercase letter
         if char.isalpha():
             # shift the character by the specified number of positions
@@ -30,5 +30,5 @@ def caesar_encrypt(text, shift):
 # Write a decryptor, change caesar_cipher function name to the encryptor
 def caesar_decrypt(text, shift):
     result = ""
-    #ToDo: iterate through each character in the input text
+    # iterate through each character in the input text
     return result
