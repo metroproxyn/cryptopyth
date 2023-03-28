@@ -1,4 +1,4 @@
-def caesar_cipher(text, shift):
+def caesar_encrypt(text, shift):
     result = ""
     # iterate through each character in the input text
     for char in text:
