@@ -1,6 +1,5 @@
 def xor_cipher(message, key):
 
-    ## TODO:
     # Convert the message and key to bytes
     message_bytes = message.encode()
     key_bytes = key.encode()
