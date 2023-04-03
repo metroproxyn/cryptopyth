@@ -5,6 +5,7 @@ For now, it contains:
 * Reverse cipher
 * Caesar cipher
 * XOR cipher
+* AES (in development)
 
 (TBS)
 
